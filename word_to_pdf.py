@@ -74,3 +74,16 @@ if uploaded_file is not None:
 
 st.markdown("---")
 st.markdown("<p style='text-align: center; color: gray;'>Services by Wings of Steel</p>", unsafe_allow_html=True)
+
+adsterra_code = """
+<script>
+  atOptions = {
+    'key' : '5a12c44d4bfbcf38fbc4fd32a966e8e6',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/5a12c44d4bfbcf38fbc4fd32a966e8e6/invoke.js"></script>
+"""
